@@ -1,44 +1,48 @@
-import React from "react"
-import { graphql } from "gatsby"
+import React from "react";
+import { graphql } from "gatsby";
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import PostCard from "../components/postCard"
+import Layout from "../components/layout";
+import SEO from "../components/seo";
+import PostCard from "../components/postCard";
 
 class TagPageTemplate extends React.Component {
   render() {
-    const props = this.props
-    const tag = this.props.pageContext.tag
-    const posts = this.props.data.allMarkdownRemark.edges
-    const siteTitle = this.props.data.site.siteMetadata.title
+    const props = this.props;
+    const tag = this.props.pageContext.tag;
+    const posts = this.props.data.allMarkdownRemark.edges;
+    const siteTitle = this.props.data.site.siteMetadata.title;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           // title={`#${tag}`}
           title={`#${tag.charAt(0).toUpperCase() + tag.slice(1)}`}
-          keywords={[`${tag}`, `blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[
+            `${tag}`,
+            `guy with camera`,
+            `photography`,
+            `south african`,
+            `photo`
+          ]}
         />
         <header className="tag-page-head">
-          <h1 className="page-head-title">#{tag}({props.data.allMarkdownRemark.totalCount})</h1>
+          <h1 className="page-head-title">
+            #{tag}({props.data.allMarkdownRemark.totalCount})
+          </h1>
         </header>
-      <div className="post-feed">
-        {posts.map(({ node }) => {
-          return (
-            <PostCard
-              key={node.fields.slug}
-              node={node}
-              postClass={`post`}
-            />
-          )
-        })}
-      </div>
-    </Layout>
-    )
+        <div className="post-feed">
+          {posts.map(({ node }) => {
+            return (
+              <PostCard key={node.fields.slug} node={node} postClass={`post`} />
+            );
+          })}
+        </div>
+      </Layout>
+    );
   }
 }
 
-export default TagPageTemplate
+export default TagPageTemplate;
 
 export const pageQuery = graphql`
   query PostByTag($tag: String!) {
@@ -48,7 +52,10 @@ export const pageQuery = graphql`
         author
       }
     }
-    allMarkdownRemark(filter: { frontmatter: { tags: { in: [$tag] } } }, sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      filter: { frontmatter: { tags: { in: [$tag] } } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       totalCount
       edges {
         node {
@@ -73,4 +80,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

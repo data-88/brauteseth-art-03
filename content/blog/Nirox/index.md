@@ -14,4 +14,6 @@ I was at the art gallery called Nitrox and I’m heading home from the sculpture
 > access to the region’s extraordinary cultural and environmental heritage. Conversely, artists bring their spotlight
 > into the region. The program has no predilection for style or dogma, emphasizing work that is relevant, challenging.
 
-![Scupture](./Nirox_Sculture_Park_IMG_1403.jpg)
+![Scupture](./Nirox_Geometriic.jpg)
+
+![Scupture](./Nirox_Sculture_Park_IMG_1399.jpg)
