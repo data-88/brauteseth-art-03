@@ -21,6 +21,8 @@ class TagPageTemplate extends React.Component {
             `${tag}`,
             `guy with camera`,
             `photography`,
+            `camera`,
+            `johannesburg`,
             `south african`,
             `photo`
           ]}

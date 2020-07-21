@@ -21,7 +21,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Keen on photos. Loves writing. Here for you.
+            Keen on photos. Love to write. Here for you.
           </h2>
           <h3 id="dynamic-styles">Dynamic Photographer</h3>
           <p>
