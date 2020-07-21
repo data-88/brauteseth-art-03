@@ -3,6 +3,7 @@ title: Out in Fourways
 date: "2019-08-21"
 tags: [lifestyle,joburglife,fourways]
 description: All ways lead to Fourways.
+thumbnail: ./Fourways_JoburgFilm_000029.jpg
 ---
 
 House music on the N1. The city makes sense at night. The signs in the dark. Brings the constellation of logos into perspective. Electric colour at over 80kms an hour. Partying out in Fourways remains me of tiger tiger in durban. I managed to blend in. My shirt wasn’t too tight. Nobody thought I was too old. I saw some terrible hot girls. Maybe in their twenties. A blue ball breaker scenario. The 21 year old says about her boyfriend 'I look at his dick like I’m hungry and I haven’t eaten for weeks'. Smoking hot girl just comes up to me and starts dancing. She knew what she was doing although a bit drunk. I think to quirk her friends. Puppies put. Made my night.

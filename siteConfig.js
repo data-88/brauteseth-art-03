@@ -1,7 +1,7 @@
 module.exports = {
   name: 'Guy With Camera',
   shortName: 'GWC',
-  description: 'A bold view from a personal perspective',
+  description: 'The other side of the camera.',
   url: 'https://www.guywithcamera.co.za', // Domain of your site without prefix!
   prefix: '/',
   author: 'Andrew Brauteseth',

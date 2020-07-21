@@ -32,9 +32,6 @@ const Layout = props => {
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
               </li>
-              <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
-              </li>
               <li className="nav-tags" role="menuitem">
                 <Link to={`/tags`}>Tags</Link>
               </li>
@@ -48,7 +45,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
+                href="https://www.facebook.com/andrewbrauteseth"
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -56,7 +53,7 @@ const Layout = props => {
                 Facebook
               </a>
               <a
-                href="https://twitter.com"
+                href="https://twitter.com/guy_with_camera"
                 title="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -72,12 +69,12 @@ const Layout = props => {
                 RSS
               </Link>
               <a
-                href="https://github.com/jooplaan/gatsby-london-night-and-day"
-                title="GitHub"
+                href="https://www.instagram.com/guy_with_camera/"
+                title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                GitHub
+                Instagram
               </a>
             </div>
           </div>
@@ -90,7 +87,7 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
+        Built with Love & {" "}
         <a
           href="https://gatsbyjs.org"
           target="_blank"

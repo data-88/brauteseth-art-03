@@ -2,13 +2,13 @@
 title: Linden
 date: "2019-08-12"
 thumbnail: ./Linden_Johannesburg_GWC_1936.jpg
-description: Let your hair down and paint the town red
+tags: [lifestyle,joburglife,Linden]
+description: I'm going to update this soon since I have a lot of photos from the neighbourhood.
 ---
+Established. Real estatey. Low key Words could be said and suspicious persons could disappear from the neighbourhood. Many different ways of seeing this city.  People have been here all their lives so I can’t compare material or social capital. What do I really bring. Artistic values maybe. Some practical knowledge of IT. At Brian Lara I meet a skinny fashion girl wearing Mr Price and passing it off as Zara. There’s a hint of a café culture between the Argentinean, The Whippet and now Yield coffee. 
 
-![Clean lines](./clem-onojeghuo-207792-unsplash.jpg)
+![Linden](./The_Argentean_Bakery_Linden_GWC_0430.jpg)
 
-![Clean lines](./mitch-lensink-588486-unsplash.jpg)
+![Linden](./Linden_Johannesburg_GWC_0477.jpg)
 
-![Clean lines](./ricardo-gomez-angel-180819-unsplash.jpg)
-
-![Clean lines](./joanna-kosinska-254406-unsplash.jpg)
+![Linden](./JoburgFilm_000024.JPG)

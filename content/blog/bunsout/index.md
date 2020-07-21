@@ -1,7 +1,7 @@
 ---
 title: Buns Out
 date: "2019-05-03"
-tags: [burgers,linden]
+tags: [Linden,joburglife]
 thumbnail: ./buns-out-linden-randburg-burger-GWC_0440.jpg
 description: For the influencers.
 ---
