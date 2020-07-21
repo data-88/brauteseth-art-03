@@ -1,7 +1,7 @@
 ---
 title: Life in the North
 date: "2019-05-08"
-thumbnail: ./d_life_GWC_5252.jpg
+thumbnail: ./Dino_life_GWC_5252.jpg
 tags: [joburglife, Johannesburg, thoughts]
 description: A battery.
 ---
@@ -36,6 +36,6 @@ The history keeps me interested. Rushing to dig up gold and now pavements dug up
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Johannesburg](./d_life_GWC_5252.jpg)
+![Johannesburg](./On_The_Hill_Sunset_NorthCliff_GWC.jpg)
 
 </div>
