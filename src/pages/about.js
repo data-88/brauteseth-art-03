@@ -23,14 +23,9 @@ const AboutPage = ({ data }, location) => {
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
             Keen on photos. Love to write. Here for you.
           </h2>
-          <h3 id="dynamic-styles">Dynamic Photographer</h3>
+          <h3 id="dynamic-styles">Reasonably dynamic photographer.</h3>
           <p>
-            Don't forget to check out my{" "}
-            <a href="https://www.instagram.com/guy_with_camera/">Instagram.</a>{" "}
-            for more ways to connect.
-          </p>
-          <p>
-            Please feel free to email me{" "}
+            Please feel free to email me about prints or shoots{" "}
             <a href="mailto:andrew@guywithcamera.co.za">
               andrew@guywithcamera.co.za
             </a>{" "}
