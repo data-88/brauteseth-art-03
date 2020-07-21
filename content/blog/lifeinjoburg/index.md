@@ -39,8 +39,6 @@ The history keeps me interested. Rushing to dig up gold and now pavements dug up
 
 ![Johannesburg](./d_life_GWC_5252.JPG)
 
-![Johannesburg](./NorthCliff_GWC.jpg)
-
-# Communication Power
+![Johannesburg](./NorthCliff_Tower_GWC.jpg)
 
 </div>
