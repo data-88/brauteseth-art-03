@@ -1,7 +1,7 @@
 ---
-title: Clean lines
-date: "2019-05-05"
-thumbnail: ./matthew-hamilton-351641-unsplash.jpg
+title: Linden
+date: "2019-08-12"
+thumbnail: ./Linden_Johannesburg_GWC_1936.jpg
 description: Let your hair down and paint the town red
 ---
 

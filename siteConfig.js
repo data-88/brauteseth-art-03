@@ -1,9 +1,9 @@
 module.exports = {
   name: 'Guy With Camera',
-  shortName: '',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://www.jooplaan.com', // Domain of your site without prefix!
+  shortName: 'GWC',
+  description: 'A bold view from a personal perspective',
+  url: 'https://www.guywithcamera.co.za', // Domain of your site without prefix!
   prefix: '/',
-  author: 'jooplaan',
-  twitter: ''
+  author: 'Andrew Brauteseth',
+  twitter: 'guy_with_camera'
 }

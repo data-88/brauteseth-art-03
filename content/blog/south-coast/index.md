@@ -2,7 +2,7 @@
 title: South Coast
 date: "2020-05-28"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
-thumbnail: ./south_coast_KZN_IMG_9999.JPG
+thumbnail: ./Margate_KZN_South_Coast_IMG_9998.jpg
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and

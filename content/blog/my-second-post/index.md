@@ -1,13 +1,6 @@
 ---
-title: My Second Post!
-date: "2020-07-21"
+title: Romeos
+date: "2019-11-21"
 ---
 
-Wow! I love blogging so much already.
-
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
-
-Yeah, I didn't either.
+Anti-Influencer. DJ with 20% hit rate. Indian kitch. It’s the internet. Everything is a symbolic eating of brands and experiences. Labour documented as leisure. Influencer material everywhere but only tourists take photos. The snacks come around look like cocaine trays. I try blend in. Fucking Superman Nick raising his arms on the dance floor with some girl with a small face. That’s how it works I guess. People want to hook up. Sick but true. 
