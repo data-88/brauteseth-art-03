@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  London Night and Day
+  Guy With Camera
 </h1>
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jooplaan/gatsby-london-night-and-day)
