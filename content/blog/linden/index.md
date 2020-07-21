@@ -14,7 +14,7 @@ Established. Real estatey. Low key Words could be said and suspicious persons co
 
 ![Linden](./Linden_Johannesburg_GWC_0477.jpg)
 
-![Linden](./JoburgFilm_000024.jpg)
+![Linden](./Linden_Joburg_000024.jpg)
 
 ![Linden](./van-der-linde-resturant.jpg)
 
