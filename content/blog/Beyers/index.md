@@ -1,12 +1,12 @@
 ---
-title: Beyers Naudé 
+title: Beyers Naudé
 date: "2020-04-11"
 thumbnail: ./GWC_4736.jpg
 description: Main road.
-tags: [Johannesburg,Documentary,Culture]
+tags: [Johannesburg, Documentary, Culture]
 ---
 
-Beyers Naudé is like a crumpled classifies newspaper section. When everything stands out and nothing stands out. An answer that’s come out of the negotiation between safety and commerce. I didn’t realise this road would be such a feature of my daily commute and such a feature of suburban life here. 
+Beyers Naudé is like a crumpled classifieds newspaper section. When everything stands out and nothing stands out. An answer that’s come out of the negotiation between safety and commerce. I didn’t realise this road would be such a feature of my daily commute and such a feature of suburban life here.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
