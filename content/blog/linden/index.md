@@ -26,4 +26,4 @@ Established. Real estatey. Low key Words could be said and suspicious persons co
 
 ![Linden](./Roy_Lotkin_000042_Swim.jpg)
 
-![Linden](./Linden_JoburgFilm_000037jpg)
+![Linden](./Linden_JoburgFilm_000037.jpg)
