@@ -18,7 +18,7 @@ Thinking about a new car. Want my material self to expand. Joburg is an interest
 
 I’m at a braai in Parkview. The clever gays are here. Doing cheat days. I need more lessons in tolerance, accept and inclusion. We talk about the value tornado and decision trees. MBA types complain about corporate female positive conferences with guest speakers who insult the core values of the effort. Being English I feel seen as a cultural outsider.
 
-I spend my time in water and tiles. Sharp chilly pools. Rinse and repeating everyday as a mental routine. Outside my office block there are the Flight Centre workres in Navy corporate uniforms playing U2’s With or Without You to celebrate Fridays. That’s an acceptable point of rebellion in a carpark. 4x4’s with saving Rhino stickers. There are drones. There are xenophobias. Zulu taxi driver gangs. I heard about the ‘shoulder Bar’ in the Kasi. Kids with wheelbarrows take you home after you are motherless drunk for just R15.
+I spend my time in water and tiles. Sharp chilly pools. Rinse and repeating everyday as a mental routine. Outside my office block there are the Flight Centre workers in Navy corporate uniforms playing U2’s With or Without You to celebrate Fridays. That’s an acceptable point of rebellion in a carpark. 4x4’s with saving Rhino stickers. There are drones. There's Xenophobia. Zulu taxi driver gangs. I heard about the ‘shoulder Bar’ in the Kasi. Kids with wheelbarrows take you home after you are motherless drunk for just R15.
 
 The history keeps me interested. Rushing to dig up gold and now pavements dug up by Vumatel. A constant war against finality. There are many layers of makeup. Paint the building grey and fix kitchen fixtures. Repaint the bathroom.
 
