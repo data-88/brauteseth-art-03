@@ -1,9 +1,9 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
+import { Link } from "gatsby";
 
 const Layout = props => {
-  const { title, children } = props
-  const [toggleNav, setToggleNav] = React.useState(false)
+  const { title, children } = props;
+  const [toggleNav, setToggleNav] = React.useState(false);
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       <header className="site-head">
@@ -21,7 +21,8 @@ const Layout = props => {
             >
               <div className="hamburger-box">
                 <div className="hamburger-inner" />
-              </div> <div className="hamburger-text-menu-text hidden">Menu</div>
+              </div>{" "}
+              <div className="hamburger-text-menu-text hidden">Menu</div>
             </div>
           </a>
           <nav id="swup" className="site-head-left">
@@ -44,14 +45,6 @@ const Layout = props => {
           </div>
           <div className="site-head-right">
             <div className="social-links">
-              <a
-                href="https://www.facebook.com/andrewbrauteseth"
-                title="Facebook"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Facebook
-              </a>
               <a
                 href="https://twitter.com/guy_with_camera"
                 title="Twitter"
@@ -87,7 +80,7 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with Love & {" "}
+        Built with Love &{" "}
         <a
           href="https://gatsbyjs.org"
           target="_blank"
@@ -97,7 +90,7 @@ const Layout = props => {
         </a>
       </footer>
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
