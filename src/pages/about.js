@@ -25,10 +25,14 @@ const AboutPage = ({ data }, location) => {
           </h2>
           <h3 id="dynamic-styles">Reasonably dynamic photographer.</h3>
           <p>
-            Please feel free to email me about prints or shoots{" "}
+            If you'd like to get hold of me:{" "}
             <a href="mailto:andrew@guywithcamera.co.za">
-              andrew@guywithcamera.co.za
+              andrew[at]guywithcamera.co.za
             </a>{" "}
+          </p>
+          <p>
+            My old site with more of my portfolio has moved here temporarily:
+            https://gwc-site.netlify.app
           </p>
         </div>
       </article>
