@@ -35,8 +35,8 @@ const AboutPage = ({ data }, location) => {
             </a>{" "}
           </p>
           <p>
-            My old site with more of my portfolio has moved here temporarily:
-            https://gwc-site.netlify.app
+            My old site with more of my portfolio has moved here temporarily
+            <a href="https://gwc-site.netlify.app">here.</a>{" "}
           </p>
         </div>
       </article>
