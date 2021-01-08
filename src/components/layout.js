@@ -46,7 +46,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://twitter.com/guy_with_camera"
+                href="https://twitter.com/brauteseth"
                 title="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -62,7 +62,7 @@ const Layout = props => {
                 RSS
               </Link>
               <a
-                href="https://www.instagram.com/guy_with_camera/"
+                href="https://www.instagram.com/brauteseth.art/"
                 title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
