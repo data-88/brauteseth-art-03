@@ -1,5 +1,5 @@
 ---
-title: Back with the blog.
+title: Mental Gymnastics.
 date: "2020-07-21"
 tags: [process, thoughts]
 ---
