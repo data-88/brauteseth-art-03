@@ -1,9 +1,9 @@
 module.exports = {
-  name: "Guy With Camera",
-  shortName: "GWC",
-  description: "This side of the camera.",
-  url: "https://guywithcamera.co.za", // Domain of your site without prefix!
+  name: "Andrew Brauteseth",
+  shortName: "Brauteseth",
+  description: "Art in all it's forms.",
+  url: "https://brauteseth.art", // Domain of your site without prefix!
   prefix: "/",
   author: "Andrew Brauteseth",
-  twitter: "guy_with_camera"
+  twitter: "brauteseth"
 };
