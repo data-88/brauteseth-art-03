@@ -16,13 +16,13 @@ A custom, image-centric theme for Gatsby. Made for publishers and portfolios wit
 
 **Based on [London After Midnight](https://github.com/vaporwavy/gatsby-london-after-midnight) for Gatsby** which is based on [London](https://github.com/ImedAdel/gatsby-london) for Gatsby.
 
-
 ---
 
 ### What is different from London After Midnight?
-* light-mode and dark-mode compabible, dark-mode as default for older systems
-* Removed Google Fonts, using system fonts instead (for speed and privacy :)
-* Use [Sass](https://sass-lang.com/) in stead of plain CSS.
+
+- light-mode and dark-mode compabible, dark-mode as default for older systems
+- Removed Google Fonts, using system fonts instead (for speed and privacy :)
+- Use [Sass](https://sass-lang.com/) in stead of plain CSS.
 
 ---
 
@@ -56,4 +56,4 @@ _First time with Gatsby? Take a look on the [official and community-created star
 
     Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-
+# brauteseth-art-blog
