@@ -17,13 +17,13 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="GWC"
+        title="Brauteseth"
         keywords={[
-          `photographer`,
+          `artist`,
           `blog`,
           `south africa`,
           `Johannesburg`,
-          `campaign`
+          `art`
         ]}
       />
       {/* <Bio /> */}
