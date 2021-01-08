@@ -21,18 +21,18 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Keen on photos. Love to write. Here for you.
+            Keen on conceptualising. Like to write about it. Here for you.
           </h2>
-          <h3 id="dynamic-styles">Reasonably dynamic photographer.</h3>
+          <h3 id="dynamic-styles">Reasonably dynamic creative person.</h3>
           <p>
             If you'd like to get hold of me:{" "}
-            <a href="mailto:andrew@guywithcamera.co.za">
-              andrew@guywithcamera.co.za
+            <a href="mailto:andrewbrauteseth@gmail.com">
+            andrewbrauteseth@gmail.com
             </a>{" "}
           </p>
           <p>
-            My old site with more of my portfolio has moved here temporarily
-            <a href="https://gwc-site.netlify.app">here.</a>{" "}
+            My old site with more of my photo portfolio has moved here temporarily
+            <a href="https://gwc-site.netlify.app"> here.</a>{" "}
           </p>
         </div>
       </article>
