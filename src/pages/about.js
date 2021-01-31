@@ -15,7 +15,7 @@ const AboutPage = ({ data }, location) => {
     <Layout title={siteTitle}>
       <SEO
         title="About"
-        keywords={[`South African`, `blog`, `artist`, `Art`]}
+        keywords={[`South African`, `blog`, `photographer`, `Art`]}
       />
 
       <article className="post-content page-template no-image">
@@ -27,11 +27,12 @@ const AboutPage = ({ data }, location) => {
           <p>
             If you'd like to get hold of me:{" "}
             <a href="mailto:andrewbrauteseth@gmail.com">
-            andrewbrauteseth@gmail.com
+              andrewbrauteseth@gmail.com
             </a>{" "}
           </p>
           <p>
-            My old site with more of my photo portfolio has moved here temporarily
+            My old site with more of my photo portfolio has moved here
+            temporarily
             <a href="https://gwc-site.netlify.app"> here.</a>{" "}
           </p>
         </div>

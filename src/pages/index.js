@@ -19,10 +19,11 @@ const BlogIndex = ({ data }, location) => {
       <SEO
         title="Brauteseth"
         keywords={[
-          `artist`,
+          `photographer`,
           `blog`,
           `south africa`,
           `Johannesburg`,
+          `Photo`,
           `art`
         ]}
       />
