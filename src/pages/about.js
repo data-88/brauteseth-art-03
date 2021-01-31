@@ -23,7 +23,9 @@ const AboutPage = ({ data }, location) => {
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
             Keen on conceptualising. Like to write about it. Here for you.
           </h2>
-          <h3 id="dynamic-styles">Reasonably dynamic creative person.</h3>
+          <h3 id="dynamic-styles">
+            Reasonably dynamic photographer at your service.
+          </h3>
           <p>
             If you'd like to get hold of me:{" "}
             <a href="mailto:andrewbrauteseth@gmail.com">
