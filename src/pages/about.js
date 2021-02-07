@@ -15,7 +15,15 @@ const AboutPage = ({ data }, location) => {
     <Layout title={siteTitle}>
       <SEO
         title="About"
-        keywords={[`South African`, `blog`, `photographer`, `Art`]}
+        keywords={[
+          `South Africa`,
+          `blog`,
+          `photographer`,
+          `Art`,
+          `Artist`,
+          `Photo`,
+          `Joburg`
+        ]}
       />
 
       <article className="post-content page-template no-image">
