@@ -19,7 +19,6 @@ class TagPageTemplate extends React.Component {
           title={`#${tag.charAt(0).toUpperCase() + tag.slice(1)}`}
           keywords={[
             `${tag}`,
-            `Andrew Brauteseth`,
             `photography`,
             `camera`,
             `johannesburg`,

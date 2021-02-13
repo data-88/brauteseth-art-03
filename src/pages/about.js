@@ -29,13 +29,9 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Working on and exploring concepts.
+            Thanks for being interested in my work.
           </h2>
           <h3 id="dynamic-styles">Reasonably dynamic photographer.</h3>
-          <p>
-            If you'd like to get hold of me:{" "}
-            <a href="mailto:andrew@brauteseth.art">andrew@brauteseth.art</a>{" "}
-          </p>
         </div>
       </article>
     </Layout>
